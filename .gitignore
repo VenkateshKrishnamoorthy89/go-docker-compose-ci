@@ -1,0 +1,6 @@
+.env
+*.exe
+coverage.out
+coverage.html
+.idea/
+.vscode/
